@@ -8,7 +8,7 @@
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1"
   },
-  "homepage": "https://<ваш-username>.github.io/my-gaming-landing",
+  "homepage": "https://shijimaru.github.io/my-gaming-landing",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
