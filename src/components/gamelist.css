@@ -1,0 +1,24 @@
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 200px;
+    margin-left: 27%;
+}
+
+.card {
+    border: 1px solid #040036;
+    margin: 30px;
+    padding: 15px;
+    width: 200px;
+    text-align: center;
+    background-color: #040036;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+
+.card-image{
+    width: 200px;
+    height: 100px;
+}

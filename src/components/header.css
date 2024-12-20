@@ -1,0 +1,37 @@
+header {
+    background-color: #040036;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav a {
+    font-size: 1.5em;
+    color: white;
+    text-decoration: none;
+}
+
+.title{
+    background-image: url(https://img.goodfon.ru/original/1920x1080/7/b6/badfon-call_of_duty_black_ops_2-call.jpg);
+    height: 800px;
+    margin-top: 40px;
+    
+}
+
+.title-name{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    height: 800px;
+    align-items: center;
+}
