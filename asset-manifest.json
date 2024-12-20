@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-gaming-landing/static/css/main.8c4081ea.css",
+    "main.js": "/my-gaming-landing/static/js/main.85f9ce4d.js",
+    "index.html": "/my-gaming-landing/index.html",
+    "main.8c4081ea.css.map": "/my-gaming-landing/static/css/main.8c4081ea.css.map",
+    "main.85f9ce4d.js.map": "/my-gaming-landing/static/js/main.85f9ce4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c4081ea.css",
+    "static/js/main.85f9ce4d.js"
+  ]
+}
